@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Patel</h1>
-<h3 align="center">A passionate Java Developer| DSA Enthusiast 📚 Solved 500+ DSA problems | 380+ days coding streak 🌱 Currently learning: Advanced Java & MySQL</h3>
+<h3 align="center">A passionate Java Developer| DSA Enthusiast 📚 Solved 500+ DSA problems | 380+ days coding streak 🌱 Currently learning: Docker and Kubernetes</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
